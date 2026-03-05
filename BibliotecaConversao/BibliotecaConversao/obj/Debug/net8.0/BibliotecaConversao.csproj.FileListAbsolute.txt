@@ -1,0 +1,22 @@
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\bin\Debug\net8.0\BibliotecaConversao.deps.json
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\bin\Debug\net8.0\BibliotecaConversao.dll
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\bin\Debug\net8.0\BibliotecaConversao.pdb
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.AssemblyInfoInputs.cache
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.AssemblyInfo.cs
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.dll
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\refint\BibliotecaConversao.dll
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.pdb
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\ref\BibliotecaConversao.dll
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaConversao\BibliotecaConversao\bin\Debug\net8.0\BibliotecaConversao.deps.json
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaConversao\BibliotecaConversao\bin\Debug\net8.0\BibliotecaConversao.dll
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaConversao\BibliotecaConversao\bin\Debug\net8.0\BibliotecaConversao.pdb
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.AssemblyInfo.cs
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.dll
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\refint\BibliotecaConversao.dll
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.pdb
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\ref\BibliotecaConversao.dll

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Roteiros POOll\AreaTrianguloIgor\AreaTrianguloIgor\bin\Debug\net8.0\AreaTrianguloIgor.deps.json
+C:\Users\User\Desktop\Roteiros POOll\AreaTrianguloIgor\AreaTrianguloIgor\bin\Debug\net8.0\AreaTrianguloIgor.dll
+C:\Users\User\Desktop\Roteiros POOll\AreaTrianguloIgor\AreaTrianguloIgor\bin\Debug\net8.0\AreaTrianguloIgor.pdb
+C:\Users\User\Desktop\Roteiros POOll\AreaTrianguloIgor\AreaTrianguloIgor\obj\Debug\net8.0\AreaTrianguloIgor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Roteiros POOll\AreaTrianguloIgor\AreaTrianguloIgor\obj\Debug\net8.0\AreaTrianguloIgor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Roteiros POOll\AreaTrianguloIgor\AreaTrianguloIgor\obj\Debug\net8.0\AreaTrianguloIgor.AssemblyInfo.cs
+C:\Users\User\Desktop\Roteiros POOll\AreaTrianguloIgor\AreaTrianguloIgor\obj\Debug\net8.0\AreaTrianguloIgor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Roteiros POOll\AreaTrianguloIgor\AreaTrianguloIgor\obj\Debug\net8.0\AreaTrianguloIgor.dll
+C:\Users\User\Desktop\Roteiros POOll\AreaTrianguloIgor\AreaTrianguloIgor\obj\Debug\net8.0\refint\AreaTrianguloIgor.dll
+C:\Users\User\Desktop\Roteiros POOll\AreaTrianguloIgor\AreaTrianguloIgor\obj\Debug\net8.0\AreaTrianguloIgor.pdb
+C:\Users\User\Desktop\Roteiros POOll\AreaTrianguloIgor\AreaTrianguloIgor\obj\Debug\net8.0\ref\AreaTrianguloIgor.dll

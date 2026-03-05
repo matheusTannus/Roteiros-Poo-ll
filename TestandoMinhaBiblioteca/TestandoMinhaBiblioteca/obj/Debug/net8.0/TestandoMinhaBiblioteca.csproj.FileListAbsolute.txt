@@ -1,0 +1,44 @@
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\TestandoMinhaBiblioteca.exe
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\TestandoMinhaBiblioteca.deps.json
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\TestandoMinhaBiblioteca.runtimeconfig.json
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\TestandoMinhaBiblioteca.dll
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\TestandoMinhaBiblioteca.pdb
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\BibliotecaConversao.dll
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\BibliotecaConversao.pdb
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.csproj.AssemblyReference.cache
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.AssemblyInfoInputs.cache
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.AssemblyInfo.cs
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\Testando.A560E7EC.Up2Date
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.dll
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\refint\TestandoMinhaBiblioteca.dll
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.pdb
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.genruntimeconfig.cache
+C:\Users\alunolab\source\repos\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\ref\TestandoMinhaBiblioteca.dll
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\TestandoMinhaBiblioteca.exe
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\TestandoMinhaBiblioteca.deps.json
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\TestandoMinhaBiblioteca.runtimeconfig.json
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\TestandoMinhaBiblioteca.dll
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\TestandoMinhaBiblioteca.pdb
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\BibliotecaConversao.dll
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\BibliotecaConversao.pdb
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.AssemblyInfo.cs
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\Testando.A560E7EC.Up2Date
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.dll
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\refint\TestandoMinhaBiblioteca.dll
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.pdb
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\TestandoMinhaBiblioteca.genruntimeconfig.cache
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\obj\Debug\net8.0\ref\TestandoMinhaBiblioteca.dll
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\BibliotecaValidacoes.dll
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\BibliotecaValidacoes.pdb
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\BibliotecaMultiplicacao.dll
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\BibliotecaMultiplicacao.pdb
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\AreaTrianguloIgor.dll
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\AreaTrianguloIgor.pdb
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\BibliotecaFinanceira.dll
+C:\Users\User\Desktop\Roteiros POOll\TestandoMinhaBiblioteca\TestandoMinhaBiblioteca\bin\Debug\net8.0\BibliotecaFinanceira.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaMultiplicacao\BibliotecaMultiplicacao\bin\Debug\net8.0\BibliotecaMultiplicacao.deps.json
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaMultiplicacao\BibliotecaMultiplicacao\bin\Debug\net8.0\BibliotecaMultiplicacao.dll
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaMultiplicacao\BibliotecaMultiplicacao\bin\Debug\net8.0\BibliotecaMultiplicacao.pdb
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaMultiplicacao\BibliotecaMultiplicacao\obj\Debug\net8.0\BibliotecaMultiplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaMultiplicacao\BibliotecaMultiplicacao\obj\Debug\net8.0\BibliotecaMultiplicacao.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaMultiplicacao\BibliotecaMultiplicacao\obj\Debug\net8.0\BibliotecaMultiplicacao.AssemblyInfo.cs
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaMultiplicacao\BibliotecaMultiplicacao\obj\Debug\net8.0\BibliotecaMultiplicacao.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaMultiplicacao\BibliotecaMultiplicacao\obj\Debug\net8.0\BibliotecaMultiplicacao.dll
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaMultiplicacao\BibliotecaMultiplicacao\obj\Debug\net8.0\refint\BibliotecaMultiplicacao.dll
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaMultiplicacao\BibliotecaMultiplicacao\obj\Debug\net8.0\BibliotecaMultiplicacao.pdb
+C:\Users\User\Desktop\Roteiros POOll\BibliotecaMultiplicacao\BibliotecaMultiplicacao\obj\Debug\net8.0\ref\BibliotecaMultiplicacao.dll
