@@ -11,7 +11,8 @@ No Visual Studio: Clique com o botão direito em Dependencies > Add Project Refe
 2. Espaço de Nomes (Namespace)
 Adicione a diretiva using no topo do seu arquivo de código
 
-```using BibliotecaMultiplicacao;
+```
+using BibliotecaMultiplicacao;
 
 var conversao = new Conversao();
 
