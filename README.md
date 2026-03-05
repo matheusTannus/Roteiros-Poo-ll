@@ -1,11 +1,11 @@
 ## BibliotecaMultiplicacao
 Uma biblioteca simples em .NET para cálculo de área de triângulos.
 
-##🚀 Como usar
+## Como usar
 Para utilizar esta DLL no seu projeto, siga os passos abaixo:
 
 1. Adicionar a Referência
-Primeiro, você precisa adicionar o arquivo AreaTriangulo.dll às referências do seu projeto:
+Primeiro, você precisa adicionar o arquivo BibliotecaMultiplicacao.dll às referências do seu projeto:
 
 No Visual Studio: Clique com o botão direito em Dependencies > Add Project Reference > Browse e selecione a DLL.
 2. Espaço de Nomes (Namespace)
