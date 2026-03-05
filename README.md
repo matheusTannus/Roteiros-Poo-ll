@@ -8,6 +8,7 @@ Para utilizar esta DLL no seu projeto, siga os passos abaixo:
 Primeiro, você precisa adicionar o arquivo BibliotecaMultiplicacao.dll às referências do seu projeto:
 
 No Visual Studio: Clique com o botão direito em Dependencies > Add Project Reference > Browse e selecione a DLL.
+
 2. Espaço de Nomes (Namespace)
 Adicione a diretiva using no topo do seu arquivo de código
 
