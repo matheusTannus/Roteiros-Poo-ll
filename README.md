@@ -1,5 +1,5 @@
 ## BibliotecaMultiplicacao
-Uma biblioteca simples em .NET para cálculo de área de triângulos.
+Uma biblioteca simples em .NET para cálculo de dois numeros.
 
 ## Como usar
 Para utilizar esta DLL no seu projeto, siga os passos abaixo:
