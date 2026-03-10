@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="AreaTriangulo%28igor%29">
+      <HintPath>..\..\AreaTriangulo(igor)\AreaTriangulo(igor)\bin\Debug\net8.0\AreaTriangulo(igor).dll</HintPath>
+    </Reference>
+    <Reference Include="AreaTrianguloIgor">
+      <HintPath>..\..\AreaTrianguloIgor\AreaTrianguloIgor\bin\Debug\net8.0\AreaTrianguloIgor.dll</HintPath>
+    </Reference>
+    <Reference Include="BibliotecaConversao">
+      <HintPath>..\..\BibliotecaConversao\BibliotecaConversao\bin\Debug\net8.0\BibliotecaConversao.dll</HintPath>
+    </Reference>
+    <Reference Include="BibliotecaFinanceira">
+      <HintPath>..\..\BibliotecaFinanceira\BibliotecaFinanceira\bin\Debug\net8.0\BibliotecaFinanceira.dll</HintPath>
+    </Reference>
+    <Reference Include="BibliotecaMultiplicacao">
+      <HintPath>..\..\BibliotecaMultiplicacao\BibliotecaMultiplicacao\bin\Debug\net8.0\BibliotecaMultiplicacao.dll</HintPath>
+    </Reference>
+    <Reference Include="BibliotecaValidacoes">
+      <HintPath>..\..\BibliotecaValidacoes\BibliotecaValidacoes\bin\Debug\net8.0\BibliotecaValidacoes.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
