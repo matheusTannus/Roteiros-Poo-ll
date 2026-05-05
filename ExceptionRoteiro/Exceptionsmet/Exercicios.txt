@@ -1,0 +1,15 @@
+5) catch (Exception ex) 
+   { 
+	throw ex; 
+   }  Corrija e explique o motivo 
+CORREÇÃO
+catch (Exception ex) 
+{ 
+  throw;
+}  //Isso se da pq quando faz com 'ex' ele aparece como se o erro fosse o catch, sendo assim perdendo o stack trace original do erro
+   //Só o 'throw' sozinho aparece corretamente o stack trace
+
+7) 1- Porque conseguimos colocar um significado que o usuário ou o programador entenda e possa resolver
+   2- Ele guarda o erro original dentro de outra exceção de erro
+   3- O erro deve ser trado na main pois la é onde se mostra a mensagem para o usuário
+
